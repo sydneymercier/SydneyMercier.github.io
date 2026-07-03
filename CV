@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sydney Mercier | Biologie du cancer &amp; recherche</title>
+  <meta name="description" content="Sydney Mercier — Master Cancer Biology, Université de Montpellier. Recherche en biologie cellulaire, cancérologie et imagerie." />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="dossier">
+
+    <!-- ===== Sidebar ===== -->
+    <aside class="sidebar">
+      <div class="specimen-photo">
+        <div class="tape t1"></div>
+        <div class="tape t2"></div>
+        <div class="card">
+          <img src="assets/images/portrait.jpg" alt="Portrait de Sydney Mercier" />
+          <div class="caption">SM · Montpellier, FR</div>
+        </div>
+      </div>
+
+      <span class="eyebrow">Fiche N° SM·2026</span>
+      <h1>Sydney Mercier</h1>
+      <p class="role">Master Cancer Biology<br>Université de Montpellier</p>
+
+      <nav class="index-nav" aria-label="Sommaire">
+        <a href="#about"><span>01</span>Résumé</a>
+        <a href="#experience"><span>02</span>Expérience</a>
+        <a href="#formation"><span>03</span>Formation</a>
+        <a href="#skills"><span>04</span>Techniques</a>
+        <a href="#languages"><span>05</span>Langues</a>
+        <a href="#contact"><span>06</span>Contact</a>
+      </nav>
+
+      <div class="contact-stack">
+        <a class="chip cta" href="mailto:sydney.p.mercier@gmail.com"><i class="fa-solid fa-envelope"></i>Me contacter</a>
+        <a class="chip" href="tel:0612564263"><i class="fa-solid fa-phone"></i>06 12 56 42 63</a>
+        <a class="chip" href="https://www.linkedin.com/in/sydney-mercier-02993b348/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i>LinkedIn</a>
+      </div>
+    </aside>
+
+    <!-- ===== Main content ===== -->
+    <main class="content">
+
+      <section class="about" id="about">
+        <div class="section-head">
+          <span class="num">01</span>
+          <h2>Résumé</h2>
+          <span class="tag">qui je suis</span>
+        </div>
+        <div class="section-body">
+          <p>
+            Motivée et rigoureuse, je suis titulaire d'une Licence en Sciences de la Vie avec une
+            spécialisation en Biologie Cellulaire et Physiologie des Organismes de l'Université de
+            Strasbourg, complétée par une année d'échange à l'Université de Montréal. J'ai ensuite
+            poursuivi mes études en Master mention Bio-Santé, parcours Cancer Biology, à l'Université
+            de Montpellier.
+          </p>
+          <p>
+            Au travers de mon parcours, j'ai développé des compétences solides en biologie cellulaire,
+            physiologie, biochimie et techniques de laboratoire. Intéressée par la recherche et la
+            science, je suis prête à contribuer à vos projets.
+          </p>
+        </div>
+      </section>
+
+      <section class="experience" id="experience">
+        <div class="section-head">
+          <span class="num">02</span>
+          <h2>Expérience</h2>
+          <span class="tag">3 </span>
+        </div>
+        <div class="section-body specimen-grid">
+
+          <article class="specimen-card">
+            <span class="catalog">N° 01</span>
+            <div class="when">Fév. 2026 — Juil. 2026 · 6 mois</div>
+            <h3>Projet de recherche — Institut de recherche en cancérologie de Montpellier</h3>
+            <div class="where">Laboratoire du Dr. Laurent Le Cam, Montpellier, France</div>
+            <ul>
+              <li>Mené de façon autonome un projet de recherche translationnelle en cancérologie sur les mécanismes métaboliques et épigénétiques de la LAM mutée IDH1.</li>
+              <li>Développé et réalisé des analyses multi-plateformes (LC-MS, CyTOF, RT-qPCR, Western blot), assurant la production, l'analyse et l'interprétation de données complexes.</li>
+            </ul>
+          </article>
+
+          <article class="specimen-card">
+            <span class="catalog">N° 02</span>
+            <div class="when">Fév. 2025 — Juin 2025 · 5 mois</div>
+            <h3>Projet de recherche — Institut de recherche en cancérologie de Montpellier</h3>
+            <div class="where">Laboratoire du Dr. Claude Sardet, Montpellier, France</div>
+            <ul>
+              <li>Mené à bien un projet de recherche en oncologie sur l'optimisation de protocoles d'immunofluorescence sur tissue micro-array (TMA) de lignées cellulaires du cancer du sein triple négatif (TNBC).</li>
+              <li>Développé et réalisé des analyses multi-techniques (immunofluorescence, microscopie confocale, culture cellulaire, coupe au microtome), assurant la production, la quantification et l'interprétation des données d'imagerie (ImageJ, GraphPad Prism).</li>
+            </ul>
+          </article>
+
+          <article class="specimen-card">
+            <span class="catalog">N° 03</span>
+            <div class="when">Jan. 2024 — Avr. 2024 · 4 mois</div>
+            <h3>Projet de recherche — Institut de recherche en biologie végétale (IRBV)</h3>
+            <div class="where">Laboratoire Kierzkowski, Montréal, Québec, Canada</div>
+            <ul>
+              <li>Mené une étude comparative du développement de l'ovule chez Arabidopsis thaliana entre lignées sauvages et mutantes Apetala2.</li>
+              <li>Développé et réalisé des analyses d'imagerie 3D (microscopie confocale à balayage laser, segmentation tissulaire), assurant l'acquisition, la quantification et l'interprétation de paramètres cellulaires (volume, surface, circularité).</li>
+            </ul>
+          </article>
+
+        </div>
+      </section>
+
+      <section class="formation" id="formation">
+        <div class="section-head">
+          <span class="num">03</span>
+          <h2>Formation</h2>
+          <span class="tag">parcours académique</span>
+        </div>
+        <div class="section-body formation-grid">
+          <div class="formation-card">
+            <div class="when">Sept. 2024 — Août 2026</div>
+            <h3>Master · Cancer Biology</h3>
+            <div class="where">Université de Montpellier, Montpellier, France</div>
+          </div>
+          <div class="formation-card">
+            <div class="when">Sept. 2021 — Août 2024</div>
+            <h3>Licence · Sciences de la Vie — BCPO</h3>
+            <div class="where">Université de Strasbourg, Strasbourg, France</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="skills" id="skills">
+        <div class="section-head">
+          <span class="num">04</span>
+          <h2>Techniques &amp; outils</h2>
+          <span class="tag">paillasse et analyse</span>
+        </div>
+        <div class="section-body">
+          <div class="skill-group">
+            <h4>Analyse &amp; biologie moléculaire</h4>
+            <div class="tags">
+              <span>LC-MS</span>
+              <span>CyTOF</span>
+              <span>RT-qPCR</span>
+              <span>Western blot</span>
+            </div>
+          </div>
+          <div class="skill-group">
+            <h4>Imagerie &amp; microscopie</h4>
+            <div class="tags">
+              <span>Immunofluorescence</span>
+              <span>Microscopie confocale</span>
+              <span>Imagerie 3D</span>
+              <span>Coupe au microtome</span>
+            </div>
+          </div>
+          <div class="skill-group">
+            <h4>Culture &amp; logiciels</h4>
+            <div class="tags">
+              <span>Culture cellulaire</span>
+              <span>ImageJ</span>
+              <span>GraphPad Prism</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="languages" id="languages">
+        <div class="section-head">
+          <span class="num">05</span>
+          <h2>Langues</h2>
+        </div>
+        <div class="section-body langs">
+          <div class="lang-item">
+            <div class="label">Français</div>
+            <div class="level">langue maternelle</div>
+            <div class="bar"><span style="width:100%"></span></div>
+          </div>
+          <div class="lang-item">
+            <div class="label">Anglais</div>
+            <div class="level">niveau C2</div>
+            <div class="bar"><span style="width:95%"></span></div>
+          </div>
+        </div>
+      </section>
+
+      <footer id="contact">
+        <div class="section-head">
+          <span class="num">06</span>
+          <span class="eyebrow">Discutons</span>
+        </div>
+        <div class="section-body">
+          <h2 class="footer-title">Envie d'échanger sur un projet de recherche ?</h2>
+          <div class="contact-row">
+            <a class="chip cta" href="mailto:sydney.p.mercier@gmail.com"><i class="fa-solid fa-envelope"></i>sydney.p.mercier@gmail.com</a>
+            <a class="chip" href="tel:0612564263"><i class="fa-solid fa-phone"></i>06 12 56 42 63</a>
+            <a class="chip" href="https://www.linkedin.com/in/sydney-mercier-02993b348/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i>linkedin.com/in/sydney-mercier</a>
+          </div>
+          <div class="foot-note">Sydney Mercier — Montpellier, France</div>
+        </div>
+      </footer>
+
+    </main>
+  </div>
+</body>
+</html>
