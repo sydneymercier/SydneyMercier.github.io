@@ -2,6 +2,6 @@
 
 https://SydneyMercier.github.io/
 
-📄 [Mon Résumé/CV (PDF)](assets/downloadables/FR%20-%20CV%20-%20Sydney%20Mercier.pdf)  
-📁 [Mon Portfolio (PDF)](assets/downloadables/EN%20-%20Portfolio%20-%20Sydney%20Mercier.pdf)  
+📄 [Mon CV (PDF)](assets/downloadables/CV_Sydney_Mercier_1page.pdf)  
+ 
 
